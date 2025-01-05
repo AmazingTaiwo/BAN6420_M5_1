@@ -7,13 +7,13 @@
 # Breast Cancer Classification Using PCA and Logistic Regression
 
 1. Introduction
-	This project demonstrates how to perform dimensionality reduction using Principal Component Analysis (PCA) and classify breast cancer data using Logistic Regression.
-	The dataset used is the `sklearn.datasets.load_breast_cancer`, which contains 	features of malignant and benign tumors 
-		1. Analyze the breast cancer dataset.
-		2. Perform dimensionality reduction using PCA.
-		3. Optimize logistic regression with hyperparameter tuning.
-		4. Compare classification performance with and without PCA.
-		5. Visualize results including PCA components, ROC curve, and confusion matrix.
+	- This project demonstrates how to perform dimensionality reduction using Principal Component Analysis (PCA) and classify breast cancer data using Logistic Regression.
+ 	- The dataset used is the `sklearn.datasets.load_breast_cancer`, which contains features of malignant and benign tumors.
+  		- Analyze the breast cancer dataset.
+    		- Perform dimensionality reduction using PCA.
+      		- Optimize logistic regression with hyperparameter tuning.
+        	- Compare classification performance with and without PCA.
+         	- Visualize results including PCA components, ROC curve, and confusion matrix.
 
 2. Requirements
 	- Python 3.7+
