@@ -67,7 +67,7 @@
 5. How to Run
 	1. Clone or download the script via: https://github.com/AmazingTaiwo/BAN6420_M5_1.git
 	2. Run the script in a Python environment on CMD via below command 
-   		python main.py
+		- python main.py
   	3. Review outputs and visualizations in the terminal and pop-up generated plots.
 
 6. Visualizations
