@@ -72,11 +72,11 @@
 
 6. Visualizations
 	6.1 PCA Components Scatter Plot
-		 - Illustrates the separation between malignant and benign classes using the first two principal components.
+   		- Illustrates the separation between malignant and benign classes using the first two principal components.
 	6.2 Cumulative Explained Variance
-		 - Helps identify the optimal number of PCA components.
+   		- Helps identify the optimal number of PCA components.
 	6.3 Confusion Matrix
-		 - A heatmap showing true vs. predicted classifications.
+   		- A heatmap showing true vs. predicted classifications.
 	6.4 ROC Curve
-		 - Visualizes the model’s performance across various classification thresholds.
+   		- Visualizes the model’s performance across various classification thresholds.
 
