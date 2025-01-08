@@ -41,7 +41,7 @@
 	- created scatter plot the first two PCA components to show class separation.
 
 	3.4 Logistic Regression
-	- Hyperparameter tuning was donw using `GridSearchCV`.
+	- Hyperparameter tuning was done using `GridSearchCV`.
 	- Train the optimized logistic regression model on PCA-reduced data.
 	- Evaluate model performance with metrics: accuracy, precision, recall, F1-score, and ROC AUC.
 	- Compare results with models trained on original features.
